@@ -16,3 +16,21 @@ A notable feature of the game, more apparent to a developer than a player, is th
 generic "pop-up" window UI element I created. It made use of UE4's built-in UI system<br/>
 in a way that allowed me to create pop-ups with customizable buttons and text, and<br/>
 most importantly whose buttons could *trigger events*, also in a customizable way.<br/>
+
+
+Gameplay Images:
+![Alt text](TitleScreen.png)
+![Alt text](PhotosPauseMenuScreenshot.png)
+![Alt text](ReceivingQuestScreenshot.png)
+
+
+Images of Blueprint Code:
+* Main Scene Blueprint
+![Alt text](Main_Scene_Blueprint.png)
+* Blueprints within the main character's blueprint
+![Alt text](Main_Character_Blueprint.png)
+![Alt text](Death_Animation_Blueprint.png)
+![Alt text](Falling_Damage_Blueprint.png)
+![Alt text](Generic_Popup_Window_Tool_Blueprint.png)
+![Alt text](Quest_Handling_Blueprint.png)
+![Alt text](UI_Effects_and_Camera_Zoom_Blueprint.png)
