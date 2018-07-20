@@ -26,11 +26,11 @@ Gameplay Images:
 
 Images of Blueprint Code:
 * Main Scene Blueprint
-![Alt text](Main_Scene_Blueprint.png)
+![Alt text](BlueprintScreenshots/Main_Scene_Blueprint.png)
 * Blueprints within the main character's blueprint
-![Alt text](Main_Character_Blueprint.png)
-![Alt text](Death_Animation_Blueprint.png)
-![Alt text](Falling_Damage_Blueprint.png)
-![Alt text](Generic_Popup_Window_Tool_Blueprint.png)
-![Alt text](Quest_Handling_Blueprint.png)
-![Alt text](UI_Effects_and_Camera_Zoom_Blueprint.png)
+![Alt text](BlueprintScreenshots/Main_Character_Blueprint.png)
+![Alt text](BlueprintScreenshots/Death_Animation_Blueprint.png)
+![Alt text](BlueprintScreenshots/Falling_Damage_Blueprint.png)
+![Alt text](BlueprintScreenshots/Generic_Popup_Window_Tool_Blueprint.png)
+![Alt text](BlueprintScreenshots/Quest_Handling_Blueprint.png)
+![Alt text](BlueprintScreenshots/UI_Effects_and_Camera_Zoom_Blueprint.png)
